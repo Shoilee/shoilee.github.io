@@ -1,0 +1,36 @@
+- group : Faculty
+  people :
+    - name : Stuart Shieber
+      github: srush
+      url: "http://www.eecs.harvard.edu/shieber/"
+      pic: "/images/shieber.png"
+      title : Professor
+    - name : Kianté Brantley
+      email : kdbrantley@g.harvard.edu
+      github: xkianteb
+      url: "https://xkianteb.github.io/"
+      githubid: 3131540
+      title : Assistant Professor
+      
+- group : Kempner Research Fellows
+  people :
+    - name : Jennifer Hu
+      email : jenniferhu@fas.harvard.edu
+      url : "https://jennhu.github.io/"
+      github: jennhu
+      githubid: 25358156
+      title : Kempner Research Fellow
+    - name : Isabel Papadimitriou
+      email : isabelpapadimitriou@g.harvard.edu
+      url : "https://isabelpapad.com/"
+      github: toizzy
+      githubid: 14034611
+      title : Kempner Research Fellow
+
+- group: Undergraduate Researchers
+  people:
+    - name : Valerio Pepe
+      email: valeriopepe@college.harvard.edu
+      title: Undergraduate
+      url: https://github.com/vpepe
+      githubid: 20324516
