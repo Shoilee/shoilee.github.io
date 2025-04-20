@@ -2,7 +2,7 @@ notable:
   - title: "Enhancing Provenance Research with Linked Data: A Visual Approach to Knowledge Discovery"
     authors: "Sarah Binta Alam Shoilee, Annastiina Ahola, Heikki Rantala, Eero Hyvönen, Victor de Boer, Jacco van Ossenbruggen, Susan Legene"
     pdf: "https://seco.cs.aalto.fi/publications/2025/shoilee-et-al-pm-sampo-2025.pdf"
-    image: /images/diffusion.png
+    image: /images/place_vis.png
     conference: "SemDH 2025 Workshop, co-located with ESWC 2025"
   - title: "A Framework for Evaluating Entity Alignment Impact on Downstream Knowledge Discovery"
     authors: "Sarah Binta Alam Shoilee, Victor de Boer, Jacco van Ossenbruggen"
