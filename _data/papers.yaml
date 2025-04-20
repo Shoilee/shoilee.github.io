@@ -35,11 +35,6 @@ papers:
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3679020"
     Journal: "ACM Journal on Computing and Cultural Heritage"
 
-  - title: "Fuzzy Name Matching for Untangling Provenance of Colonial Heritage"
-    authors: "Sarah Binta Alam Shoilee"
-    pdf: "https://zenodo.org/records/11431211"
-    conference: "DH Benelux 2024"
-
   - title: "Polyvocal Knowledge Modelling for Ethnographic Heritage Object Provenance."
     authors: "Sarah Binta Alam Shoilee, Victor de Boer, Jacco van Ossenbruggen"
     pdf: "https://ebooks.iospress.nl/pdf/doi/10.3233/SSW230010"
